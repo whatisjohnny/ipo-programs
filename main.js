@@ -58,18 +58,18 @@
 // Input
 
 // let billA = +prompt("Enter starting bill amount($):");
-// et tipA = +prompt("Enter percentage to tip(%):");
+// let tipA = +prompt("Enter percentage to tip(%):");
 
 // Process
 
 // let billF = billA / tipA + billA;
-// let bC = billA / tipA;1
+// let bC = billA / tipA;
 
 // Output
 
 // alert(`$${billA} bill plus a tip of $${bC} = ${billF}`);
 
-// Question 61
+// Question 6
 
 // distance = Math.sqrt((x2 - x1)^2 + (y2 - y1)^2)
 
