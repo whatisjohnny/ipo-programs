@@ -1,0 +1,18 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    padding: 50px;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+div {
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+    margin-top: 20px;
+}
